@@ -1,0 +1,68 @@
+{
+  "format_version": 1,
+  "source": "materials/CET4/2025/12/第3套/真题.pdf",
+  "source_format": "pdf",
+  "source_sha256": "2a6b29e5d9607bdbec4c2d0e03287feea59344dd001f34be316a06d37e39fd76",
+  "source_files": [
+    {
+      "path": "materials/CET4/2025/12/第3套/真题.pdf",
+      "sha256": "2a6b29e5d9607bdbec4c2d0e03287feea59344dd001f34be316a06d37e39fd76",
+      "bytes": 280419
+    }
+  ],
+  "normalized_file": "normalized.md",
+  "normalized_sha256": "1c5b650f059cf724236e352686f6c761668cfbd0da22c54b79bfb6e66e7e182b",
+  "normalized_bytes": 21961,
+  "fidelity": "extracted-text",
+  "mode": "auto",
+  "ocr_languages": null,
+  "visual_review_required": true,
+  "warnings": [
+    "PDF page markers use PDF page order; printed page numbers may differ.",
+    "Columns, tables, equations, figures, captions, headers, and footnotes require visual review."
+  ],
+  "pages": [
+    {
+      "page": 1,
+      "method": "text-layer",
+      "characters": 2967,
+      "visible_characters": 2022
+    },
+    {
+      "page": 2,
+      "method": "text-layer",
+      "characters": 3612,
+      "visible_characters": 2485
+    },
+    {
+      "page": 3,
+      "method": "text-layer",
+      "characters": 4381,
+      "visible_characters": 3437
+    },
+    {
+      "page": 4,
+      "method": "text-layer",
+      "characters": 3010,
+      "visible_characters": 2407
+    },
+    {
+      "page": 5,
+      "method": "text-layer",
+      "characters": 2762,
+      "visible_characters": 2184
+    },
+    {
+      "page": 6,
+      "method": "text-layer",
+      "characters": 3151,
+      "visible_characters": 2487
+    },
+    {
+      "page": 7,
+      "method": "text-layer",
+      "characters": 1232,
+      "visible_characters": 927
+    }
+  ]
+}

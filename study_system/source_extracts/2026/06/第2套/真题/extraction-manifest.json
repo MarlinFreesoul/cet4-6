@@ -1,0 +1,92 @@
+{
+  "format_version": 1,
+  "source": "materials/CET4/2026/06/第2套/真题.pdf",
+  "source_format": "pdf",
+  "source_sha256": "6bfea873edee3bafb054088109f6e3a323c27577a4b1aabcdfc5918744ab8f02",
+  "source_files": [
+    {
+      "path": "materials/CET4/2026/06/第2套/真题.pdf",
+      "sha256": "6bfea873edee3bafb054088109f6e3a323c27577a4b1aabcdfc5918744ab8f02",
+      "bytes": 363119
+    }
+  ],
+  "normalized_file": "normalized.md",
+  "normalized_sha256": "f8b15753d6941871df60238625bffc8b360fa6eb377f7a2007f92cb7c44b52f6",
+  "normalized_bytes": 28260,
+  "fidelity": "extracted-text",
+  "mode": "auto",
+  "ocr_languages": null,
+  "visual_review_required": true,
+  "warnings": [
+    "PDF page markers use PDF page order; printed page numbers may differ.",
+    "Columns, tables, equations, figures, captions, headers, and footnotes require visual review."
+  ],
+  "pages": [
+    {
+      "page": 1,
+      "method": "text-layer",
+      "characters": 2200,
+      "visible_characters": 1582
+    },
+    {
+      "page": 2,
+      "method": "text-layer",
+      "characters": 1852,
+      "visible_characters": 1450
+    },
+    {
+      "page": 3,
+      "method": "text-layer",
+      "characters": 1786,
+      "visible_characters": 1378
+    },
+    {
+      "page": 4,
+      "method": "text-layer",
+      "characters": 1892,
+      "visible_characters": 1424
+    },
+    {
+      "page": 5,
+      "method": "text-layer",
+      "characters": 3320,
+      "visible_characters": 2159
+    },
+    {
+      "page": 6,
+      "method": "text-layer",
+      "characters": 4097,
+      "visible_characters": 3265
+    },
+    {
+      "page": 7,
+      "method": "text-layer",
+      "characters": 3406,
+      "visible_characters": 2717
+    },
+    {
+      "page": 8,
+      "method": "text-layer",
+      "characters": 3252,
+      "visible_characters": 2682
+    },
+    {
+      "page": 9,
+      "method": "text-layer",
+      "characters": 2809,
+      "visible_characters": 2279
+    },
+    {
+      "page": 10,
+      "method": "text-layer",
+      "characters": 2373,
+      "visible_characters": 1803
+    },
+    {
+      "page": 11,
+      "method": "text-layer",
+      "characters": 165,
+      "visible_characters": 143
+    }
+  ]
+}
