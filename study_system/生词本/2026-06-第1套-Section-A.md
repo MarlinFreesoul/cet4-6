@@ -93,3 +93,34 @@
 |---|---|---|
 | `historians` | 历史学家（`historian` 的复数） | 口头复盘中说成“人类学家”；人类学家是 `anthropologists`。后续确认这是口误还是词义混淆。 |
 | `instead` | 而是、转而、作为替代 | 此处不是简单的“相反”。它标记研究方向转换：不再试图解决增长快慢的争议，转而解释其他事件如何影响工业革命。 |
+
+
+## 本轮新增词块与易混词
+
+### in an effort to
+
+- 结构：`in an effort to + 动词原形`
+- 语境义：为了……；试图……
+- 本文：为了解决这一争议。
+- 写作迁移：`In an effort to address the problem, ...`
+- 注意：它表达目的，不必逐字翻译成“在一个努力之下”。
+
+### typically / specifically / exactly
+
+| 词 | 核心意义 | 典型位置与例子 |
+|---|---|---|
+| `typically` | 通常、一般而言；以典型方式 | `Historians typically use A as B.` |
+| `specifically` | 具体地、明确地；专门针对 | `The report specifically addresses unemployment.` |
+| `exactly` | 准确地、恰好、究竟 | `define exactly what X means`; `use exactly this measure` |
+
+稳定表达：
+
+`Somebody typically uses A as B.`
+
+注意主谓一致：`somebody` 是单数，因此写 `uses`。
+
+### deteriorating：本轮状态更新
+
+- 当前状态：完全不认识。
+- 本轮误选原因：看到 `-ing` 后，把它当成能够表达“持续状态／变化”的候选词；未还原 `with + goods + adjective complement`，也未利用该句的正面立场排除。
+- 后续辨认：`deteriorate` = become worse；`deteriorating conditions` = 不断恶化的状况。
