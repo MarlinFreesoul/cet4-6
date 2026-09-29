@@ -174,3 +174,95 @@
 8. 候选词填入后，重读完整句子，同时检查语法、搭配和篇章立场。
 
 待验证：这一流程能否在下一次 Section A 中减少“正确词池、错误槽位”的问题。
+
+
+## 九、with 复合结构：不只能够使用 doing
+
+基本模型：
+
+`with + 名词／代词 + 补语`
+
+补语说明前面名词所处的状态、动作或关系。
+
+| 补语类型 | 关系 | 示例 |
+|---|---|---|
+| `V-ing` | 主动、进行 | `with somebody working` |
+| 过去分词 | 被动、完成后的状态 | `with the door closed` |
+| 形容词 | 状态 | `with the door open`；`with goods available` |
+| 介词短语 | 位置／伴随状态 | `with his hands in his pockets` |
+| 副词／小品词 | 状态 | `with the lights on` |
+| `to do` | 尚待发生 | `with much work to do` |
+
+关键校正：
+
+- `with somebody doing` 不是唯一常见形式。
+- `with + 名词 + 形容词` 是标准且常见的状态表达。
+- `with doing` 通常不能简单视为省略了 somebody；有些 `with + 动名词` 属于另一种“介词 + 动名词”结构，必须分别判断。
+- 本题的 `available` 是形容词补语，描述 `goods` 对工人阶级而言“可获得”。
+
+## 十、动词配价：动词要求打开哪些槽位
+
+动词配价不是只背“及物／不及物”，而是观察一个动词为了表达完整意义，需要哪些参与者和补语。
+
+| 模型 | 例子 | 必需槽位 |
+|---|---|---|
+| 一价 | `Prices rose.` | 谁／什么发生变化 |
+| 二价 | `Policies enhanced living standards.` | 谁实施动作 + 动作对象 |
+| 三价 | `She gave him a book.` | 给予者 + 接收者 + 物品 |
+| 介词框架 | `squeeze surplus from workers` | 榨取者 + 被榨取物 + 来源 |
+| 从句框架 | `claim that...` | 主张者 + 主张内容 |
+
+在没有积累的情况下，不能仅凭词形百分之百推出一个陌生动词的配价。考场可用以下顺序降低不确定性：
+
+1. 查看空格后是否已经有宾语、介词或从句。
+2. 查看主动／被动结构及动词形态。
+3. 判断句子还缺哪个语义角色：对象、来源、接收者、结果等。
+4. 用已知候选词逐一代入完整句框，而不是只比较中文词义。
+5. 最终通过真实语境积累整个框架，例如记 `squeeze X from Y`，而不是只记 `squeeze = 榨取`。
+
+本题对照：
+
+- `standards of living increased`：`increase` 可不带宾语。
+- `policies enhance standards of living`：`enhance` 需要宾语。
+- `standards of living were enhanced`：被动语态。
+- `improvement occurred`：`occur` 不带宾语。
+- `interpret how...`：`interpret` 后接解读内容。
+
+## 十一、副词位置、焦点与自然度
+
+`exactly` 是副词，但副词不仅能修饰动词，也能作为焦点副词限定一个名词短语、介词短语或从句。
+
+- `They use exactly this measure.`
+  - `exactly` 的焦点是 `this measure`。
+  - 含义：他们使用的恰好就是这个指标，而非其他指标。
+  - 它不是形容词。
+
+- `They use this exact measure.`
+  - `exact` 是形容词，直接修饰 `measure`。
+  - 含义接近“正是这个精确／特定的指标”。
+
+- `They use this measure exactly.`
+  - 句尾 `exactly` 更容易被理解为使用方式准确，或需要后文补充具体方式。
+
+- `They exactly use this measure.`
+  - 把 `exactly` 放在普通实义动词前，会使它看似修饰动作方式；而 `use` 在这里没有自然的“精确程度”，所以不地道。
+
+自然度的可操作原则：
+
+1. 焦点副词通常紧贴它所限定的成分。
+2. 位置变化会改变副词的作用域。
+3. 动词本身是否允许某种方式／程度修饰，决定搭配是否自然。
+4. 先确定想对比的是“动作、对象、数量还是整件事”，再放置副词。
+
+## 十二、已确认的后续复习目标
+
+1. 在理解大意之外，建立“逐谓语寻找主语”的句式还原能力。
+2. 训练多层从句中的代词指代和先行词回溯。
+3. 识别关系从句、宾语从句和省略结构。
+4. 掌握 `with + 名词 + 补语` 的多种补语形式。
+5. 用动词配价检查宾语、介词、从句和被动结构。
+6. 细化词性判断：不仅判断“副词”，还判断作用域和自然位置。
+7. 区分 `typically / specifically / exactly` 等近似词。
+8. 以词块积累替代孤立词义积累，例如 `in an effort to`、`use A as B`、`squeeze X from Y`。
+9. 篇章模型形成后，返回前文重新解析，避免前半段答案保持在模糊状态。
+10. 把“粗心”继续拆成可观察原因，不把系统性错误笼统归因于态度。
