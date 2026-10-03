@@ -6,11 +6,12 @@
 
 - [Baseline 01 完整复盘：2026-06 第1套 Section A](复盘记录/2026-09-29-Baseline-01-Section-A.md)
 - [本轮语境化生词本](生词本/2026-06-第1套-Section-A.md)
-- [CET4 Real Feedback 复盘 SOP v0.2（当前执行版）](SOP/CET4-Real-Feedback-复盘SOP-v0.2.md)
+- [CET4 Section A 选词填空 Real Feedback SOP v0.3（当前执行版）](SOP/CET4-Section-A-Word-Bank-Cloze-SOP-v0.3.md)
+- [CET4 Real Feedback 复盘 SOP v0.2（历史版）](SOP/CET4-Real-Feedback-复盘SOP-v0.2.md)
 - [CET4 Real Feedback 复盘 SOP v0.1（历史版）](SOP/CET4-Real-Feedback-复盘SOP-v0.1.md)
-- [Run Real Feedback Lab Skill 源码](../skills/run-real-feedback-lab/SKILL.md)
+- [CET4 选词填空 Real Feedback Skill 源码](../skills/run-cet4-word-bank-cloze/SKILL.md)
 
-当前方法：先识别实验状态，通过材料身份、基线完整性、原始证据、因果充分性、干预资格和可证伪性六道门禁；每轮只改变1–2个行为，并用延迟提取与陌生材料分别验证记忆和迁移。
+当前方法：先检查 CET4 Section A 选词填空的题型指纹，再进入材料身份、基线完整性、原始证据、答案权威层级、因果充分性、干预资格和可证伪性七道门禁；每轮只改变 1–2 个行为，用延迟提取与陌生同型题分别验证记忆和近迁移。
 
 ## 从这里开始
 

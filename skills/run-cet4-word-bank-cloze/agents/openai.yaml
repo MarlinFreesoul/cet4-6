@@ -1,0 +1,14 @@
+interface:
+  display_name: CET4 选词填空 Real Feedback
+  short_description: 跨年份运行大学英语四级选词填空基线、因果复盘与迁移验证流程
+  default_prompt: Use $run-cet4-word-bank-cloze to run a clean baseline and evidence-based
+    review for this CET4 Reading Section A passage.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
